@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## This project demonstrates essential Git practices to manage source control efficiently, including:
 
 Initializing a Git repository.
