@@ -13,10 +13,11 @@ Configuring Git username and email globally:
 mkdir my_project  
 cd my_project
 git init
+
 ![Screenshot 2024-12-07 090701](https://github.com/user-attachments/assets/bc90b960-f78b-4f7c-bd99-1c82c6893ca7)
 
 
-4. Add a README File and Make an Initial Commit
+5. Add a README File and Make an Initial Commit
 echo "# My Project" > README.md  
 git add README.md  
 git commit -m "Initial commit: Add README.md"
