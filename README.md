@@ -7,9 +7,10 @@ Merging pull requests and maintaining a linear commit history.
 
 1. Set Up Git
 Configuring Git username and email globally:
-![Uploading Screenshot 2024-12-07 090650.png…]()
+![Screenshot 2024-12-07 090650](https://github.com/user-attachments/assets/90770f3a-87bb-4ce1-acaf-090751b17d74)
 
-3. Create a New Project Directory and Initialize Git
+
+2. Create a New Project Directory and Initialize Git
 mkdir my_project  
 cd my_project
 git init
@@ -17,14 +18,14 @@ git init
 ![Screenshot 2024-12-07 090701](https://github.com/user-attachments/assets/bc90b960-f78b-4f7c-bd99-1c82c6893ca7)
 
 
-5. Add a README File and Make an Initial Commit
+3. Add a README File and Make an Initial Commit
 echo "# My Project" > README.md  
 git add README.md  
 git commit -m "Initial commit: Add README.md"
 ![Screenshot 2024-12-07 090727](https://github.com/user-attachments/assets/17eea1ad-905a-447d-a94f-6de7fb62e7bc)
 
 
-6. Push the Repository to GitHub
+4. Push the Repository to GitHub
 Connect the local repository to GitHub and push the initial commit:
 
 git remote add origin https://github.com/Ashik-Ahammad/my_project.git  
@@ -71,7 +72,7 @@ git push -u origin feature-2
 ![Screenshot 2024-12-07 091222](https://github.com/user-attachments/assets/87f1c6da-1003-4995-b877-ed24ccb061ef)
 
 
-9. Merge Branches Using Pull Requests (PRs)
+8. Merge Branches Using Pull Requests (PRs)
 Update feature-1 with the latest changes from the main branch:
 
 git checkout feature-1  
