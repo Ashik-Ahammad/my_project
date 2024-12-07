@@ -21,7 +21,7 @@ git init
 3. Add a README File and Make an Initial Commit
 echo "# My Project" > README.md  
 git add README.md  
-git commit -m "Initial commit: Add README.md"
+git commit -m " Initial commit: Add README.md"
 ![Screenshot 2024-12-07 090727](https://github.com/user-attachments/assets/17eea1ad-905a-447d-a94f-6de7fb62e7bc)
 
 
