@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## This project demonstrates essential Git practices to manage source control efficiently, including:
 
 Initializing a Git repository.
@@ -106,4 +107,9 @@ Updating the README.md file with all commands used, then pushing the final versi
 git add README.md  
 git commit -m "Update README.md with all commands used"  
 git push  
+=======
+# Git Assignment-2 
+
+
+>>>>>>> 84c81ac (Update README.md with all commands used)
 
